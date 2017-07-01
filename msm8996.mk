@@ -109,6 +109,7 @@ PRODUCT_COPY_FILES += \
 
 # Camera
 PRODUCT_PACKAGES += \
+	Snap \
 	Footej
 	
 # Connectivity Engine support (CNE)
